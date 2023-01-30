@@ -1,0 +1,32 @@
+.desti{
+    padding: 30px;
+}
+
+.des{
+    font-size: 2rem;
+    color: #fe5d4c !important;
+    text-transform: uppercase;
+    font-weight: 900 !important;
+    letter-spacing: 0px;
+    line-height: 1.2;
+}
+
+.h6{
+    font-size: 1.5rem;
+}
+
+a{
+    text-decoration: none;
+    color: inherit;
+}
+
+.topic{
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.text-mute{
+    color: #999;
+    text-align: justify;
+    font-size: 1.2rem;
+}

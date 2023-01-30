@@ -1,0 +1,46 @@
+.logReg{
+    padding:30px;
+
+}
+
+form{
+    border: 1px solid #ccc;
+    border-radius: 20px;
+    padding: 20px 20px;
+}
+
+h6{
+    font-size: 20px;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+hr{
+    border: 1px solid lightblue;
+}
+
+input{
+    border-radius: 20px !important;
+}
+
+.fpw a{
+text-decoration: none;
+color:gray;
+text-transform: uppercase;
+font-size: 14px;
+}
+
+.text-mute{
+    font-size: 15px;
+    color:gray;
+}
+
+.createAccount{
+    font-size: 15px;
+}
+
+.showHideBtn{
+    border:none;
+    background: transparent;
+}

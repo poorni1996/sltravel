@@ -1,0 +1,76 @@
+.hotel{
+    padding:30px;
+}
+
+.title{
+    font-size: 2rem;
+    color: #fe5d4c !important;
+    text-transform: uppercase;
+    font-weight: 900 !important;
+    letter-spacing: 0px;
+    line-height: 1.2;
+}
+
+.h6{
+    font-size: 1.5rem;
+}
+
+.caption{
+    font-size:30px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.description{
+    font-size: 20px;
+    font-family: cursive;
+    padding-top: 5px;
+}
+
+.bookingBtn{
+    border-radius: 10px;
+    margin-top:10px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.ficon{
+    font-size: 18px;
+    text-align: center;
+}
+
+.ficon i{
+    color: #f9a825;
+    padding-right: 10px;
+    font-size: 25px;
+}
+
+.rate{
+    color:#f9a825;
+}
+
+.modal{
+    border-radius: 10px;
+}
+
+@media screen and (min-width: 1000px) {
+   .hidelg{
+        display: none !important;
+    }
+}
+
+@media screen and (min-width: 760px) {
+    .hidelg{
+        display: none !important;
+    }    
+}
+
+@media screen and (max-width:600px) {
+    .showlg{
+        display: none !important;
+    }
+
+    .hidelg{
+        display: block !important;
+    }
+}
